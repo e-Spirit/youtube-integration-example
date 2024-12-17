@@ -1,0 +1,18 @@
+.yt-flyout {
+	width: 450px;
+}
+.yt-flyout .yt-title {
+	font-size: 1.5em;
+    line-height: 1.3;
+}
+.yt-flyout img {
+	display: block;
+    width: 100%;
+	margin: 10px 0;
+}
+.yt-flyout .yt-description {
+    overflow: hidden;
+    max-height: 7em;
+    white-space: pre-wrap;
+    word-break: break-word;
+}
