@@ -44,6 +44,8 @@ subprojects {
     dependencies {
         compileOnly (group = "de.espirit.firstspirit", name = "fs-isolated-runtime", version = fsRuntimeVersion)
 
+        implementation(group = "com.google.code.gson", name = "gson", version = "2.12.0")
+
         testImplementation(group = "de.espirit.firstspirit", name = "fs-isolated-runtime", version = fsRuntimeVersion)
         testImplementation(group = "org.junit.jupiter", name = "junit-jupiter", version = "5.10.2")
         testImplementation(group = "org.mockito", name = "mockito-core", version = "5.11.0")

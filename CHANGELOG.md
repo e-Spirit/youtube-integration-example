@@ -1,3 +1,9 @@
+## [4.0.6](https://github.com/e-Spirit/youtube-integration-example/compare/v4.0.5...v4.0.6) (2025-08-15)
+
+### Changes
+
+* Fixed critical security vulnerabilities by updating the gson and google-http-client-jackson2 dependencies.
+
 ## [4.0.5](https://github.com/e-Spirit/youtube-integration-example/compare/v4.0.4...v4.0.5) (2025-05-19)
 
 ### Changes
